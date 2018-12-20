@@ -5,4 +5,4 @@ This is a simple example package. You can use
 to write your content.
 
 python3 setup.py sdist bdist_wheel
-twine upload --repository-url https://upload.pypi.org/legacy/ dist/* -u shwetapbs -p shweta123#45pbs --verbose
+twine upload --repository-url https://upload.pypi.org/legacy/ dist/* -u <username> -p <password> --verbose
